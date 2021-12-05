@@ -29,3 +29,7 @@
 .image5 {
   background-image: url(image5.jpg);
 }
+
+#container {
+  height: 500px;
+}
